@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Angel Lucario 👋
 
 - 🔭 I’m currently working on a final project for TD.
 - 🌱 I’m currently learning Comptuer Science at URI. 
